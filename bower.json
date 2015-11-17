@@ -1,0 +1,29 @@
+{
+  "name": "facedetection",
+  "description": "detect faces with jquery",
+  "main": "index.js",
+  "authors": [
+    "dm"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "face",
+    "detect",
+    "jquery"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

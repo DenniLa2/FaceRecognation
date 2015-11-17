@@ -1,0 +1,23 @@
+{
+  "name": "facedetection",
+  "version": "1.0.0",
+  "description": "detect faces with jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "face",
+    "detect",
+    "jquery"
+  ],
+  "author": "dm",
+  "license": "ISC",
+  "dependencies": {
+    "co-busboy": "^1.3.1",
+    "koa": "^1.1.2",
+    "koa-router": "^5.2.3",
+    "koa-static": "^1.5.2",
+    "multiparty": "^4.1.2"
+  }
+}
