@@ -1,0 +1,3 @@
+# FaceRecognation
+
+npm install
